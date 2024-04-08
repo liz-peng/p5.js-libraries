@@ -3,8 +3,8 @@ description: p5.Polar provides mathematical abstractions making it easy to creat
 category: drawing
 sourceUrl: https://github.com/liz-peng/p5.Polar
 featuredImage:
-  url: p5.Polar.png
-  altText: symmetrical geometric patterns
+  url: p5.Polar.jpg
+  altText: symmetrical geometric pattern
 author:
   name: Liz Peng
 npm: "@liz-peng/p5.polar"
